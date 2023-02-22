@@ -29,7 +29,7 @@ O aplicativo é uma ótima maneira de descobrir novos talentos e desfrutar de sh
 ## 🎨 Layout
 
 <p align="center">
-    <img alt="PerformIO" title="#PerformIO" src="/Design/capa.png"/>
+    <img alt="PerformIO" title="#PerformIO" src="/Design/Capa.png"/>
 </p>
 
 <!--
