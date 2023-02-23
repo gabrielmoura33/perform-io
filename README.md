@@ -47,7 +47,8 @@ O aplicativo é uma ótima maneira de descobrir novos talentos e desfrutar de sh
 
 - [**Node.js**](https://nodejs.org/en/)
 - [**Postgres SQL**](https://imagemagick.org/index.php)
-- [**MongoDB**](https://stability.ai/blog/stable-diffusion-public-release)
+- [**MongoDB**](https://www.mongodb.com)
+- [**TypeORM**](https://typeorm.io)
 
 <!--
 ## Usage
