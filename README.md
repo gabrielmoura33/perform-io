@@ -45,6 +45,8 @@ O aplicativo é uma ótima maneira de descobrir novos talentos e desfrutar de sh
 
 ## :books: Tecnologias Utilizadas
 
+- [**React Native**](https://reactnative.dev)
+- [**Expo**](https://expo.dev)
 - [**Node.js**](https://nodejs.org/en/)
 - [**Postgres SQL**](https://imagemagick.org/index.php)
 - [**MongoDB**](https://www.mongodb.com)
